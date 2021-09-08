@@ -3,9 +3,9 @@
 ###### Taj Mahal
 I like **Taj Mahal** very much it is one of the most beautiful place in the world and also it is one **tourist place** around the world.
 
----
+### Travel directions
 
-#Travel directions
+---
 
 1. First we should book a Fight ticket from the travel booking website from Kansas to Chicago and Chicago to Delhi.
     1. Book a cab OR RENT a car and take a ride from Maryville to Kansas city airport(MCI)
