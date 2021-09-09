@@ -38,3 +38,11 @@ The following table consists some of most famous foods that are available in Ban
 | Masala Dosa | Vidyarthi Bhavan | $5 |
 | Mand house | Arabian Mandi | $15 |
 | Hard Rock Cafe | Coffie | $6 |
+
+## Pitty Quotes
+
+---
+
+> If life were predictable it would cease to be life, and be without flavor. ***Eleanor Roosevelt***
+
+> Life is what happens when you're busy making other plans. ***John Lennon***
