@@ -26,3 +26,15 @@ I like **Taj Mahal** very much it is one of the most beautiful place in the worl
 
 **[README Display AboutMe](AboutMe.md)**
 
+## Famous Foods In bangalore
+
+---
+
+The following table consists some of most famous foods that are available in Bangalore.
+
+| Food Item | Loaction | Price |
+| --- | --- | --- |
+| Chicken Biryani | Krutinga | $8 |
+| Masala Dosa | Vidyarthi Bhavan | $5 |
+| Mand house | Arabian Mandi | $15 |
+| Hard Rock Cafe | Coffie | $6 |
